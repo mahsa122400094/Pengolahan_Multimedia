@@ -24,3 +24,4 @@
 Untuk mendapatkan informasi lainnya bisa dibaca melalui website berikut:
 
 [https://mctm.web.id/course/if25-40305](https://mctm.web.id/course/if25-40305)
+Thanks to IF ITERA and Mr Martin for material
