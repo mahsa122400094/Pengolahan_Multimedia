@@ -1,19 +1,5 @@
-<p align="center">
-<img src="banner.png" alt="Banner" style="width:100%; height:auto;" />
-</p>
 
-<h1 align="center"><b>Hands-on Materials for IF25-40305</b></h1>
-
-This repository contains hands-on materials for the [IF25-40305](https://mctm.web.id/course/if25-40305) (before: IF4021) course at the [Informatics Department](https://if.itera.ac.id), Institut Teknologi Sumatera ([ITERA](https://itera.ac.id)).
-
-<h2 align="center"><b>Table of Contents.</b></h2>
-
-| No. | Topic             | Description                   | Notebook                                                                                                                                                                                                                                                                        |
-| --- | ----------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Loading Media     | Loading Audio, Image, & Video | [1_loading_media_audio.ipynb](1_loading_media_audio.ipynb) • [2_loading_media_image_vid.ipynb](2_loading_media_image_vid.ipynb) • [3_exercise_loading_media.ipynb](3_exercise_loading_media.ipynb)                                                                              |
-| 2   | Audio Processing  | Audio Signal Fundamentals     | [4_audio_processing_week1.ipynb](4_audio_processing_week1.ipynb) • [5_audio_processing_week2.ipynb](5_audio_processing_week2.ipynb) • [6_audio_processing_week3.ipynb](6_audio_processing_week3.ipynb) • [7_audio_processing_exercise.ipynb](7_audio_processing_exercise.ipynb) |
-| 3   | Image Processing  | Image Fundamentals            | [8_image_processing_week1.ipynb](8_image_processing_week1.ipynb) • [9_image_processing_week2.ipynb](9_image_processing_week2.ipynb) • [10_image_processing_week3.ipynb](10_image_processing_week3.ipynb)                                                                         |
-| 4   | Video Processing  | Video Fundamentals            | [12_video_processing_week1.ipynb](12_video_processing_week1.ipynb) • [13_video_processing_week2.ipynb](13_video_processing_week2.ipynb) • [14_video_processing_week3.ipynb](14_video_processing_week3.ipynb)                                                               |
+<h1 align="center"><b>Hands-on Materials for Image Processing</b></h1>
 
 <h2 align="center"><b>❗ Peraturan Hands-on❗</b></h2>
 
